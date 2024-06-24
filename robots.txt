@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teptorpa.github.io/sitemap
+Sitemap: https://teptorpa.github.io/app/sitemap
+Sitemap: https://teptorpa.github.io/assets/sitemap
+Sitemap: https://teptorpa.github.io/css/sitemap
+Sitemap: https://teptorpa.github.io/includes/sitemap
+Sitemap: https://teptorpa.github.io/item/sitemap
+Sitemap: https://teptorpa.github.io/src/sitemap
